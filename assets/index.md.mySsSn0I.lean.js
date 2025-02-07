@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,a2 as t}from"./chunks/framework.CEgrwLex.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"},n=t("",34),i=[n];function h(s,p,l,d,c,f){return r(),e("div",null,i)}const g=a(o,[["render",h]]);export{_ as __pageData,g as default};
