@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,a2 as t}from"./chunks/framework.Dez3CbjC.js";const f=JSON.parse(`{"title":"欢迎来到[Tom-Pesi'Blog]！","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}`),o={name:"index.md"},n=t("",34),i=[n];function s(h,p,l,d,_,c){return r(),e("div",null,i)}const g=a(o,[["render",s]]);export{f as __pageData,g as default};
