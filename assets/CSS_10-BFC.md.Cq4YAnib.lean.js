@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.Dez3CbjC.js";const c=JSON.parse('{"title":"10 - BFC","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/10-BFC.md","filePath":"CSS/10-BFC.md"}'),l={name:"CSS/10-BFC.md"},t=n("",36),h=[t];function p(e,k,d,r,E,o){return a(),i("div",null,h)}const y=s(l,[["render",p]]);export{c as __pageData,y as default};
