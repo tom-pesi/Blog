@@ -1,0 +1,1 @@
+import{_ as l,c as a,o as e,a2 as i}from"./chunks/framework.Dez3CbjC.js";const R=JSON.parse('{"title":"收藏","description":"","frontmatter":{},"headers":[],"relativePath":"collect/index.md","filePath":"collect/index.md"}'),r={name:"collect/index.md"},t=i("",17),o=[t];function n(h,s,d,B,u,c){return e(),a("div",null,o)}const b=l(r,[["render",n]]);export{R as __pageData,b as default};
